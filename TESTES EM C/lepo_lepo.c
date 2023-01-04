@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main(){
-    printf("EU ME AMO <3");
+    printf("chora boi");
 }
