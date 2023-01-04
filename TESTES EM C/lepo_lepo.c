@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main(){
-    printf("chora boi");
+    printf("Não dá");
 }
