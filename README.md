@@ -6,7 +6,7 @@ The code for ESP-32 stay in /MAIN_INO;
 
 Install libraries in ARDUINO IDE for include in you ESP-32, all available in /library;
 
-APK for your smartphone is in /APP. It needs an Android version newer than 5.1;
+APK for your smartphone is in /APP. It needs an Android version newer than 5.1; You can download by clicking here: https://github.com/JooMatos/Wood_Clock/raw/main/APP/Relogio_APP.apk
 
 To reprogram the ESP-32 using the Arduino IDE it is necessary to add extra boards to the IDE, this link may be useful: https://dl.espressif.com/dl/package_esp32_index.json
 
