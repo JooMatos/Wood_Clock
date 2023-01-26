@@ -1,4 +1,4 @@
-# Relógio_ESP32  || This project this a clock matix!
+# Relógio_ESP32  || This project this a clock matrix!
 *BY: Alcides Souza, João Matos and João França.* 
 
 The harware documents stay in /hardware;
