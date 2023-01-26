@@ -13,6 +13,8 @@ To reprogram the ESP-32 using the Arduino IDE it is necessary to add extra board
 ![image](https://user-images.githubusercontent.com/121946920/214653399-65728afa-f9f3-4b10-9d3d-837282caf4dd.png)
 
 After adding the extra boards it will be possible to upload sketches to the ESP-32, but configuration is required before uploading the partiton scheme for "NO OTA", skipping this procedure will make run out of memory for the sketch.
+
+
 ![image](https://user-images.githubusercontent.com/121946920/214651616-b800ff39-de3d-44bd-b68d-4c34c17128a8.png)
 
 
